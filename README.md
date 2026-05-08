@@ -74,7 +74,6 @@ outcomes:
     weight: 2
   - id: "Teleport"
     weight: 10
-```
 
 ---
 
@@ -94,4 +93,3 @@ I wrote this for fun and to clear Discord from trash-tier code.
 ## 👤 Author
 
 **EviZi1337** — *The guy who actually uses SOLID principles*
-```
